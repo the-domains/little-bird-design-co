@@ -1,15 +1,15 @@
-typography_spectrum: 0.9768186924047768
+layout_spectrum: 0.6740785918664187
+typography_spectrum: 0.7631952788215131
 color:
-  brandStrength: 0.8533336392138153
-  lightness: 0.8540529310703278
-  saturation: 0.7505400835070759
-  rhythmicContrast: 0.36402356601320207
+  brandStrength: 0.39280374837107956
+  lightness: 0.24519076640717685
+  saturation: 0.671424075262621
+  rhythmicContrast: 0.7202276131138206
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-layout_spectrum: 0.10765120899304748
+    - '#566987'
+    - '#B6BFC8'
+    - '#9C9FA4'
+    - '#DDDDD5'
+    - '#22222C'
 name: little bird design co
 description: Create a life you love!
