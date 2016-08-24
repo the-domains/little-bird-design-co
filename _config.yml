@@ -1,4 +1,3 @@
-layout_spectrum: 0.10765120899304748
 typography_spectrum: 0.9768186924047768
 color:
   brandStrength: 0.8533336392138153
@@ -11,4 +10,6 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.10765120899304748
 name: little bird design co
+description: Create a life you love!
